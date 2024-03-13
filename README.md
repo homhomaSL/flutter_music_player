@@ -1,2 +1,3 @@
 # flutter_music_player
- Simple music player
+
+Simple music player
